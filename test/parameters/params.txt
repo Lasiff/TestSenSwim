@@ -1,0 +1,17 @@
+frames_to_show = 5
+frames_stride = 1
+th = 0.95 - 0.98
+total_amount_of_ths = 10
+window_size = 10
+holes = 2
+moving_average_size = 3
+mean_type = valid
+min_window_size = 3
+vid_name_0 = wingate_18-11-18_3mp_25m_am_4m(7).mp4
+results_from_events = no
+input_files_dir = files
+prob_result_files_folder_name = results_from_ml_prob
+event_result_files_folder_name = results_from_event
+result_images_folder_name = images
+result_csv_folder_name = final_csv
+results_folder_name = set_of_results_number
